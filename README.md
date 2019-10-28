@@ -1,2 +1,0 @@
-# labelme-web
-modify period
